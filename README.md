@@ -16,57 +16,129 @@ Building Fake News Detectors, Research Summarizers, Forecasting Systems, and LLM
 
 # 🛠️ Tech Stack
 
-### 🚀 Programming  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
-</p>
+<div align="center">
 
-### 🤖 AI/ML  
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img height="35" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img height="35" src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img height="35" src="https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img height="35" src="https://img.shields.io/badge/LangChain-1B1F23?style=for-the-badge" />
-</p>
+<!-- Row 1: Programming -->
+<table><tr>
+<td valign="top" width="50%">
 
-### 📊 Data Science  
-<p>
-  <img height="35" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img height="35" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" />
-  <img height="35" src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy" />
-</p>
+### 🚀 Programming
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" height="36"/>
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp" height="36"/>
+  <img alt="Java" src="https://skillicons.dev/icons?i=java" height="36"/>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="36"/>
+</div>
 
-### 📈 Visualization  
-<p>
-  <img height="35" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img height="35" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img height="35" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-### 🗃️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### 🤖 AI / ML
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch" height="36"/>
+  <img alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" height="36"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+</div>
 
-### ⚙️ MLOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-  <img height="35" src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions" />
-</p>
+</td>
+</tr></table>
 
-### 🌐 App Dev  
-<p>
-  <img height="35" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
+<!-- Row 2: LLM / GenAI -->
+<table><tr>
+<td valign="top" width="100%">
 
-### ☁️ Cloud  
-<p>
-  <img height="35" src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle" />
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
- 
+### 🧠 GenAI / LLM Engineering
+<div style="border-radius:12px;padding:12px;margin-top:8px;margin-bottom:12px;background:rgba(255,255,255,0.02);box-shadow:0 2px 6px rgba(0,0,0,0.4);">
+  <ul>
+    <li><strong>LangChain</strong> — Agents, chains, memories, retrievers</li>
+    <li><strong>RAG</strong> — FAISS/Vector DBs, embeddings, document chunking</li>
+    <li><strong>Fine-tuning</strong> — LoRA / QLoRA / TinyLLaMA workflows</li>
+    <li><strong>Perplexity / Gemini</strong> — Verification, multimodal QnA</li>
+    <li><strong>HuggingFace</strong> — Tokenizers, model hub & inference</li>
+  </ul>
+</div>
+
+</td>
+</tr></table>
+
+<!-- Row 3: Data Science & Viz -->
+<table><tr>
+<td valign="top" width="50%">
+
+### 📊 Data Science
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="28"/>
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### 📈 Data Visualization
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python" height="28"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="28"/>
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly" height="28"/>
+</div>
+
+</td>
+</tr></table>
+
+<!-- Row 4: Databases & Vector -->
+<table><tr>
+<td valign="top" width="50%">
+
+### 🗄️ Databases
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="36"/>
+  <img alt="Postgres" src="https://skillicons.dev/icons?i=postgres" height="36"/>
+  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="36"/>
+  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-0E5A8A?style=for-the-badge" height="28"/>
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend & MLOps
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="28"/>
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="36"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions" height="28"/>
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-00C0A3?style=for-the-badge" height="28"/>
+</div>
+
+</td>
+</tr></table>
+
+<!-- Row 5: Cloud & Infra -->
+<table><tr>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Infra
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="OCI" src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle" height="28"/>
+  <img alt="AWS" src="https://skillicons.dev/icons?i=aws" height="36"/>
+  <img alt="Azure" src="https://skillicons.dev/icons?i=azure" height="36"/>
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### 🧩 Tools & Utilities
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="36"/>
+  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="36"/>
+  <img alt="Jupyter" src="https://skillicons.dev/icons?i=jupyter" height="36"/>
+</div>
+
+</td>
+</tr></table>
+
+</div>
+
 
 ---
 
