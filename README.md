@@ -97,15 +97,19 @@ Building Fake News Detectors, Research Summarizers, Forecasting Systems, and LLM
 </p>
 
 
+
 ### 📈 Profile Stats  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats/master/generated/overview.svg?username=DarkMatter1217" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&url=https://api.github.com/users/DarkMatter1217" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https://api.github.com/users/DarkMatter1217" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Gists&query=public_gists&url=https://api.github.com/users/DarkMatter1217" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Following&query=following&url=https://api.github.com/users/DarkMatter1217" />
 </p>
 
 
 ### 🧠 Languages  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats/master/generated/languages.svg?username=DarkMatter1217" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkMatter1217&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 
@@ -121,7 +125,7 @@ Building Fake News Detectors, Research Summarizers, Forecasting Systems, and LLM
 
 # 🏅 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkMatter1217&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkMatter1217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 
