@@ -2,15 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:      
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate snake SVG
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: DarkMatter1217
@@ -18,8 +23,13 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake.svg
 
-      - name: Push snake to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
+      - name: Upload to output branch
+        run: |
+          git init
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git checkout -b output
+          cp dist/* .
+          git add .
+          git commit -m "Generated snake animation"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/DarkMatter1217/DarkMatter1217.git output
