@@ -93,7 +93,7 @@ Building Fake News Detectors, Research Summarizers, Forecasting Systems, and LLM
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DarkMatter1217&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app?user=DarkMatter1217&theme=tokyonight" />
 </p>
 
 
