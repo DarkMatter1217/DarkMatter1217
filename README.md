@@ -12,7 +12,6 @@ Building Fake News Detectors, Research Summarizers, Forecasting Systems, and LLM
 
 ---
 
-# 🛠️ Tech Stack
 
 # 🛠️ Tech Stack
 
